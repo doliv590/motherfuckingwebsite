@@ -1,0 +1,28 @@
+#CSS1
+{
+color: blue;
+background color: red;
+border: 3px blue solid;
+margin:50px;
+padding-top: 12px; }
+#CSS2
+{
+color: yellow;
+background color: blue;
+border: 4px yellow dotted;
+margin: 40px;
+padding-bottom: 12px;}
+#CSS3
+{
+color: lime;
+background color: navy;
+border: 5px lime dashed;
+margin 35px;
+padding-right: 12px;}
+#CSS4 
+{
+color: aqua;
+background color: fuchsia;
+border: 2px aqua groove;
+margin 32px;
+padding-left: 12px; }
